@@ -1,0 +1,46 @@
+.container{
+ height: 1000pc;
+
+  display:flex;
+justify-content:center ;
+align-items: center;
+}  
+
+
+
+
+
+.ite{
+    background-color:blue;
+height:300px;
+width:500px}
+
+.item{
+    background-color: brown ;
+height: 300px;
+width: 1000px;
+}
+
+.items{
+ background-color: green;   
+height: 300px; ;
+width: 500px; ;
+}
+.vide{
+ background-color: gold;   
+height: 300px; ;
+width: 500px;
+flex-direction:initial;
+}
+.grace{
+    background-color: green;
+height: 300px;
+width: 500px;
+}
+
+.noir {
+    display: flex;
+}
+.jaune{
+    display: flex;
+}
